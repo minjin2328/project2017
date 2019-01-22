@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\taewon\source\repos\point_project1\point_project1\find_circle.h(49): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\taewon\source\repos\point_project1\point_project1\center_point.h(31): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\taewon\source\repos\point_project1\point_project1\center_point.h(32): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+LINK : fatal error LNK1168: C:\Users\TaeWon\source\repos\Point_Project1\x64\Debug\Point_Project1.exe을(를) 쓰기용으로 열 수 없습니다.
